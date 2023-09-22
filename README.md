@@ -22,7 +22,7 @@
 
 </pre>
 
-## About Kitty
+## About Blade
 Blade have any useful tools for you.
 1) encrypt tool
 2) get website informations
