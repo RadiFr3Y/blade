@@ -10,7 +10,7 @@
 
     <§> Choose one of the following:
 
-    <1> Crypt(Encryptor & Decryptor)
+    <1> Crypt (Encryptor & Decryptor)
     <2> GetInfo (Get website info)
     <3> Fizz (url finder)
     <4> clash (DDos Attacker)
